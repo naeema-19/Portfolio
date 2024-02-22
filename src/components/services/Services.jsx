@@ -52,7 +52,7 @@ function Services() {
               <h3 className="services__title">{title}</h3>
               <p className="services__description">{description}</p>
               <a href="#pricing" className="link">
-                See Pricing <FaArrowRight className="link__icon"></FaArrowRight>
+                Connect Me <FaArrowRight className="link__icon"></FaArrowRight>
               </a>
               <img src={shapeTwo} className="shape c__shape"></img>
             </SwiperSlide>
