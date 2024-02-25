@@ -201,30 +201,30 @@ export const cv = [
   {
     id: 1,
     title: 'B.Tech',
-    subtitle: 'Backend Programming',
-    date: '2014 - 2016',
+    subtitle: 'Mar Athanasius College of Engineering, Kothamangalam',
+    date: '2020 - 2024',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'B.Tech in Computer Science and Engineering',
     category: 'education',
   },
 
   {
     id: 2,
-    title: 'Lviv National Academy of Arts',
-    subtitle: 'Faculty of Design',
-    date: '2012 - 2014',
+    title: 'Class 11 - 12',
+    subtitle: 'St Thomas H.S.S. Erumely',
+    date: '2017 - 2019',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Higher Secondary School Education',
     category: 'education',
   },
 
   {
     id: 3,
-    title: 'IT Future',
-    subtitle: 'High School',
-    date: '2010 - 2012',
+    title: 'Class 1 - 10',
+    subtitle: 'Mary Matha Public School and Junior College, Edakkunnam',
+    date: '2007 - 2017',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Education till High School',
     category: 'education',
   },
 
