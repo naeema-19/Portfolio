@@ -78,7 +78,7 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: 'PHP',
+    name: 'HTML',
     percentage: 85,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -118,7 +118,14 @@ export const skills = [
 
   {
     id: 6,
-    name: 'Adobe XD',
+    name: 'Next',
+    percentage: 80,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+  {
+    id: 7,
+    name: 'CSS(Bootstrap, Tailwind..)',
     percentage: 80,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
