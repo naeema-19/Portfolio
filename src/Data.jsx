@@ -110,7 +110,7 @@ export const skills = [
 
   {
     id: 5,
-    name: 'React',
+    name: 'Reactjs ',
     percentage: 70,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -118,7 +118,7 @@ export const skills = [
 
   {
     id: 6,
-    name: 'Next',
+    name: 'Nextjs',
     percentage: 80,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -127,6 +127,20 @@ export const skills = [
     id: 7,
     name: 'CSS(Bootstrap, Tailwind..)',
     percentage: 80,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+  {
+    id: 8,
+    name: 'Django',
+    percentage: 80,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+  {
+    id: 9,
+    name: 'Node.js',
+    percentage: 10,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
@@ -186,7 +200,7 @@ export const projects = [
 export const cv = [
   {
     id: 1,
-    title: 'CoderHouse Courses',
+    title: 'B.Tech',
     subtitle: 'Backend Programming',
     date: '2014 - 2016',
     description:
