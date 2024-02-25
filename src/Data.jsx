@@ -53,21 +53,21 @@ export const links = [
 export const services = [
   {
     id: 1,
-    name: ' ',
+    name: ' 1.. ',
     title: 'Web Development',
     description:
       'Web designers craft the overall vision & plan for a website layout. Professional logo development: Business, Company, or Personal.',
   },
   {
     id: 2,
-    name: '  ',
-    title: ' Web Development ',
+    name: ' 2.. ',
+    title: ' App Development ',
     description:
       'Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing.',
   },
   {
     id: 3,
-    name: '  ',
+    name: ' 3.. ',
     title: ' Social Media Management ',
     description:
       ' Creating games & describes the design, development and release of a game. Developing unique mobile android and ios games. ',
