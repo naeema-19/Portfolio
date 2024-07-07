@@ -1,6 +1,6 @@
 import "./footer.css";
 
-import { FaBehance, FaDribbble, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin, } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -8,22 +8,22 @@ function Footer() {
       <div className="footer__container container grid">
         <div className="footer__socials">
           <a href="" className="footer__social-link">
-            <FaTwitter />
+            <FaInstagram />
           </a>
           <a href="" className="footer__social-link">
-            <FaDribbble />
+            <FaGithub />
           </a>
           <a href="" className="footer__social-link">
-            <FaBehance />
+            <FaLinkedin />
           </a>
         </div>
 
         <p className="footer__copyright text-cs">
-          &copy; 2023 <span>Luique</span>. All Rights Reserved
+          &copy; 2023 <span>---</span>. All Rights Reserved
         </p>
 
         <p className="footer__copyright text-cs">
-          Developed by <span>Ramtin</span>
+          Developed by <span>---</span>
         </p>
       </div>
     </footer>

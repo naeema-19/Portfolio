@@ -230,8 +230,8 @@ export const cv = [
 
   {
     id: 4,
-    title: 'UI Head & Manager',
-    subtitle: 'Soft Tech Inc.',
+    title: 'Web Intern',
+    subtitle: 'Trizwit Labs',
     date: '2020 - PRESENT',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -240,7 +240,7 @@ export const cv = [
 
   {
     id: 5,
-    title: 'UI / UX Specialist',
+    title: 'Freelance Web Developer',
     subtitle: 'Kana Design Studio',
     date: '2018 - 2020',
     description:
@@ -250,8 +250,27 @@ export const cv = [
 
   {
     id: 6,
-    title: 'Plugins Developer',
-    subtitle: 'Fiverr.com',
+    title: 'Web Intern',
+    subtitle: 'Kites Foundation',
+    date: '2016 - 2018',
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    category: 'experience',
+  },
+  {
+    id: 7,
+    title: 'Research Intern',
+    subtitle: 'SSERD',
+    date: '2018 - 2020',
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    category: 'experience',
+  },
+
+  {
+    id: 6,
+    title: 'Webmaster',
+    subtitle: 'IEEE R10 Information Management Committee',
     date: '2016 - 2018',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',

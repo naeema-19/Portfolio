@@ -57,7 +57,7 @@ function Contact() {
               <FaRegMap />
             </span>
             <h3 className="contact__card-title">Address</h3>
-            <p className="contact__card-data">North Tower, Toronto, Canada</p>
+            <p className="contact__card-data">-------------</p>
           </div>
 
           <div className="contact__card">
@@ -73,7 +73,7 @@ function Contact() {
               <FaRegEnvelope />
             </span>
             <h3 className="contact__card-title">Email</h3>
-            <p className="contact__card-data">zoe.miller@gmail.com</p>
+            <p className="contact__card-data">naeemaziyadk@gmail.com</p>
           </div>
 
           <div className="contact__card">
@@ -81,7 +81,7 @@ function Contact() {
               <FaRegAddressBook />
             </span>
             <h3 className="contact__card-title">Phone</h3>
-            <p className="contact__card-data">+1 900 - 900 - 9000</p>
+            <p className="contact__card-data">+91 97465 17082</p>
           </div>
         </div>
 
@@ -89,7 +89,7 @@ function Contact() {
           <div className="contact__form-group grid">
             <div className="contact__form-div">
               <label className="label contact__form-tag text-cs">
-                Your Full Name <b>*</b>
+                Full Name <b>*</b>
               </label>
               <input
                 type="text"
@@ -102,7 +102,7 @@ function Contact() {
 
             <div className="contact__form-div">
               <label className="label contact__form-tag text-cs">
-                Your Email Address <b>*</b>
+                Email Address <b>*</b>
               </label>
               <input
                 type="email"
@@ -116,7 +116,7 @@ function Contact() {
 
           <div className="contact__form-div">
             <label className="label contact__form-tag text-cs">
-              Your Subject <b>*</b>
+              Subject <b>*</b>
             </label>
             <input
               type="text"
@@ -129,7 +129,7 @@ function Contact() {
 
           <div className="contact__form-div contact__form-area">
             <label className="label contact__form-tag text-cs">
-              Your Message <b>*</b>
+              Message <b>*</b>
             </label>
             <textarea
               name="message"
