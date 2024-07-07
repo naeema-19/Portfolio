@@ -9,6 +9,7 @@ import Pricing from "./components/pricing/Pricing";
 import Resume from "./components/resume/Resume";
 import Services from "./components/services/Services";
 import Skills from "./components/skills/Skills";
+import Vol from "./components/vol/Vol";
 import Testimonials from "./components/testimonials/Testimonials";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Home />
       <Services />
       <Skills />
+      <Vol />
       <Portfolio />
       <Resume />
       <Testimonials />
