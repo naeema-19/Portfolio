@@ -14,16 +14,16 @@ function Vol() {
       <div className="skills__container container grid">
         {vol.map(({ name, percentage, description }, index) => {
           return (
-            <div className="skills__item" key={index}>
-              <div className="skills__titles">
-                <h3 className="skills__name">{name}</h3>
-                <p className="skills__description">{description}</p>
+            <div className="vol__item" key={index}>
+              <div className="vol__titles">
+                <h3 className="vol__name">{name}</h3>
+                <p className="vol__description">{description}</p>
               </div>
 
               
-              <div className="skills__bar">
+              <div className="vol__bar">
                 <span
-                  className="skills__percentage"
+                  className="vol__percentage"
                 >
                 </span>
               </div>
