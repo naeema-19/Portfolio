@@ -19,11 +19,11 @@ function Footer() {
         </div>
 
         <p className="footer__copyright text-cs">
-          &copy; 2023 <span>---</span>. All Rights Reserved
+          &copy; {(new Date().getFullYear())} <span>All Rights</span> Reserved
         </p>
 
         <p className="footer__copyright text-cs">
-          Developed by <span>---</span>
+          Developed by <span>Naeema Ziyad</span>
         </p>
       </div>
     </footer>

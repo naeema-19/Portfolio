@@ -144,6 +144,20 @@ export const skills = [
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
+  {
+    id: 10,
+    name: 'Django',
+    percentage: 80,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+  {
+    id: 11,
+    name: 'Node.js',
+    percentage: 10,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
 ];
 export const vol = [
   {
@@ -152,35 +166,30 @@ export const vol = [
     description:
       'IEEE MACE SB',
   },
-
   {
     id: 2,
     name: 'Webmaster',
     description:
       'IEEE MACE SB',
   },
-
   {
     id: 3,
     name: 'Webmaster',
     description:
       'IEEE MACE SB',
   },
-
   {
     id: 4,
     name: 'Webmaster',
     description:
       'IEEE MACE SB',
   },
-
   {
     id: 5,
     name: 'Webmaster',
     description:
       'IEEE MACE SB',
   },
-
   {
     id: 6,
     name: 'Webmaster',

@@ -12,7 +12,7 @@ function Vol() {
       </p>
 
       <div className="skills__container container grid">
-        {vol.map(({ name, percentage, description }, index) => {
+        {vol.map(({ name, description }, index) => {
           return (
             <div className="vol__item" key={index}>
               <div className="vol__titles">
